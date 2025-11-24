@@ -1,0 +1,8 @@
+# Ignore environment file
+.env
+
+# Ignore JSON files in repository root
+/*.json
+
+# Ignore Go build cache
+.gocache/
