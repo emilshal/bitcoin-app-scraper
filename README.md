@@ -1,0 +1,1 @@
+BitcoinAppScraper is a Go CLI that scrapes attendee profiles from a Brella-powered Bitcoin conference API and writes structured JSON. With optional Google Custom Search, it enriches profiles with likely public LinkedIn URLs using environment-based config and rate limiting.
